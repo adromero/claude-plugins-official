@@ -1,10 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins-official",
-  "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
+  "name": "adromero-plugins",
+  "description": "Personal fork of claude-plugins-official with the telegram message_reactions patch (see PR #2070). Tracks upstream; rename-only delta in this file.",
   "owner": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
+    "name": "A. Romero",
+    "email": "digitalstructures@proton.me"
   },
   "plugins": [
     {
